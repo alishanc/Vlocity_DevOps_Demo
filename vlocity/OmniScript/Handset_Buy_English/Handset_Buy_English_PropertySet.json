@@ -1,4 +1,5 @@
 {
+    "allowCancel": true,
     "allowSaveForLater": true,
     "autoFocus": false,
     "autoSaveOnStepNext": true,
@@ -11,10 +12,15 @@
     "consoleTabLabel": "New",
     "consoleTabTitle": null,
     "currencyCode": "",
+    "disableUnloadWarn": true,
     "elementTypeToHTMLTemplateMapping": {
         "Horizontal Mode Persistent Component": "handset-buy-cart"
     },
     "enableKnowledge": false,
+    "errorMessage": {
+        "custom": [
+        ]
+    },
     "hideStepChart": false,
     "includeCustomization": true,
     "knowledgeArticleTypeQueryFieldsMap": {
@@ -68,6 +74,7 @@
             "render": false
         }
     ],
+    "pubsub": false,
     "rtpSeed": false,
     "saveContentEncoded": false,
     "saveExpireInDays": null,
