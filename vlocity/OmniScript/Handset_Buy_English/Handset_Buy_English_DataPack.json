@@ -1,5 +1,7 @@
 {
-    "%vlocity_namespace%__AdditionalInformation__c": "Place a new order for consumer mobile services.",
+    "%vlocity_namespace%__AdditionalInformation__c": "Place a new order for consumer mobile services. - Changed something, again - ALI",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[\"handset-buy-cart\"]}",
     "%vlocity_namespace%__Element__c": [
         "Handset_Buy_English_Element_CreateCart.json",
         "Handset_Buy_English_Element_SetOrderId.json",
@@ -40,6 +42,7 @@
         "Handset_Buy_English_Element_Customer-Overall.json",
         "Handset_Buy_English_Element_RedirectToAccount.json"
     ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
     "%vlocity_namespace%__IsProcedure__c": false,
     "%vlocity_namespace%__IsReusable__c": false,
     "%vlocity_namespace%__Language__c": "English",

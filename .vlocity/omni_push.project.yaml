@@ -1,0 +1,7 @@
+Name: Omni push
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/Handset_Buy_English
+VlocityTypesToFetch:
+    - OmniScript
+SalesforceTypesToFetch:
